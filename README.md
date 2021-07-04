@@ -11,10 +11,10 @@ Currently only available in simplified Chinese, international friends please use
 
 这里是项目指引:
 ---
-* *教师事件:* [记录教师与学生如何相处/对待学生/教学方式及用语等](https://github.com/BcschoolRIP/BcschoolRIP/teacher)
-* *学生事件:*  [记录历届学生出现的事故/惨剧/流血事件等](https://github.com/BcschoolRIP/BcschoolRIP/student)
-* *学校事件:* [记录学校政策以及言论打压和控流等](https://github.com/BcschoolRIP/BcschoolRIP/school)
-* *历届学生:* [记录从历届学生口中得到的对学校的评价和他们的故事](https://github.com/BcschoolRIP/BcschoolRIP/senior)
+* *教师事件:* [记录教师与学生如何相处/对待学生/教学方式及用语等](https://github.com/BcschoolRIP/BcschoolRIP/tree/main/teacher)
+* *学生事件:*  [记录历届学生出现的事故/惨剧/流血事件等](https://github.com/BcschoolRIP/BcschoolRIP/tree/main/student)
+* *学校事件:* [记录学校政策以及言论打压和控流等](https://github.com/BcschoolRIP/BcschoolRIP/tree/main/school)
+* *历届学生:* [记录从历届学生口中得到的对学校的评价和他们的故事](https://github.com/BcschoolRIP/BcschoolRIP/tree/main/senior)
 
 
 
