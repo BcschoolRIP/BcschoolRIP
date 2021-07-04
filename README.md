@@ -5,6 +5,7 @@ Currently only available in simplified Chinese, international friends please use
 
 这里的永久链接为 https://github.com/BcschoolRIP/BcschoolRIP/
 如果您无法打开，请使用https://hub.fastgit.org/BcschoolRIP/BcschoolRIP/
+
 项目 `BcschoolRIP` 旨在告诉更多人关于巴川的 **"长期受到封锁和限制的信息"**, 这或许会让更多人选择此校前有更理性的思考。
 
 
